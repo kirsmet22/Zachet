@@ -1,2 +1,3 @@
-﻿Console.WriteLine("Здаров русский мир");
+﻿Console.WriteLine("Здарова бандосы");
 Console.ReadKey();
+
