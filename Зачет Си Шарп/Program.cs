@@ -1,3 +1,3 @@
-﻿Console.WriteLine("Здарова бандосы");
+﻿Console.WriteLine("Здравствуйте");
 Console.ReadKey();
 
